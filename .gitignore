@@ -1,0 +1,15 @@
+# Environment and secrets
+.env
+.env.*
+*.local
+*.pem
+*.key
+*.p12
+id_rsa
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.log
